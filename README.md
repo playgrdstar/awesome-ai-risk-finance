@@ -133,7 +133,7 @@ Cross-border financial bodies and the horizontal standards that finance firms ma
 - [Supervision of artificial intelligence in finance: Challenges, policies and practices (OECD, 2026)](https://www.oecd.org/en/publications/supervision-of-artificial-intelligence-in-finance_92743dc1-en.html) - Analyses supervisory approaches to AI in finance that balance responsible adoption with stability, integrity and consumer protection.
 - [Artificial intelligence in Asia's financial sector: A review of country policies (OECD, 2025)](https://www.oecd.org/en/publications/artificial-intelligence-in-asia-s-financial-sector_3385bbd8-en.html) - Compares AI-in-finance policy frameworks across 15 Asian jurisdictions and the vulnerabilities and novel risks AI can introduce.
 
-### Horizontal standards and frameworks applied to finance
+### Horizontal standards and frameworks that can be applied to finance
 
 - [AI Risk Management Framework (AI RMF 1.0) (NIST, 2023)](https://www.nist.gov/itl/ai-risk-management-framework) - Voluntary US framework (Govern, Map, Measure, Manage) widely used by financial firms and referenced by regulators to structure AI risk programmes.
 - [AI RMF Generative AI Profile (NIST-AI-600-1) (NIST, 2024)](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) - Companion profile mapping generative-AI-specific risks and suggested actions onto the AI RMF, relevant to financial generative-AI deployments.
