@@ -1,0 +1,7 @@
+# Internal working material - not part of the public list
+PIN.md
+archives/
+sources/
+themes/
+CHECKS*.md
+.DS_Store
