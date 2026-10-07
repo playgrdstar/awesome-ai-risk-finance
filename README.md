@@ -172,6 +172,9 @@ Frameworks and toolkits from industry consortia and professional bodies, built f
 
 - [GARP Risk and AI (RAI) Certificate (Global Association of Risk Professionals, 2024)](https://www.garp.org/rai) - Professional certificate covering AI/ML tools, AI risks and risk factors, responsible AI, and governance frameworks, aimed at risk practitioners.
 - [PRMIA AI Risk Management Certificate (Professional Risk Managers' International Association, 2026)](https://prmia.org/Public/Public/Certificate/AI.aspx) - Practitioner-focused certificate on understanding and governing AI risk, with self-study materials.
+- [AIGP: Artificial Intelligence Governance Professional (International Association of Privacy Professionals, 2024)](https://iapp.org/certify/aigp) - Cross-sector credential covering AI governance, risk and responsible deployment across the AI lifecycle; relevant to finance governance, risk and compliance teams.
+- [AAIA: Advanced in AI Audit (ISACA, 2025)](https://www.isaca.org/credentialing/aaia) - Advanced audit-specific AI certification for experienced auditors, on auditing AI systems and mitigating AI-related risks.
+- [AAISM: Advanced in AI Security Management (ISACA, 2025)](https://www.isaca.org/credentialing/aaism) - AI-centric security management certification on identifying, assessing and mitigating AI-specific security risks in the enterprise.
 
 ### Trade-association and survey research
 
@@ -192,6 +195,10 @@ Frameworks and toolkits from industry consortia and professional bodies, built f
 
 - [Deloitte Trustworthy AI framework (Deloitte)](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/services/ethics-of-ai-framework.html) - Advisory firm's responsible-AI framework spanning transparency, accountability, fairness, privacy, safety, and robustness across the AI lifecycle; firm-branded, with financial-services applications.
 - [KPMG Trusted AI framework (KPMG, 2026)](https://kpmg.com/xx/en/what-we-do/services/ai/trusted-ai-framework.html) - Advisory firm's framework for embedding governance across the AI and AI-agent lifecycle; firm-branded, with financial-services applications.
+- [PwC Responsible AI Toolkit (PwC)](https://www.pwc.com/sg/en/services/reimagine-digital/data-optimisation/what-is-responsible-ai.html) - Advisory firm's suite of responsible-AI frameworks, tools and processes spanning strategy to execution; firm-branded, used in financial-services engagements.
+- [EY Responsible AI framework (EY)](https://www.ey.com/en_gl/insights/ai/principles-for-ethical-and-responsible-ai) - Advisory firm's responsible-AI principles and framework covering governance, oversight and risk mitigation across the AI lifecycle; firm-branded.
+- [Accenture Responsible AI (Accenture)](https://www.accenture.com/en/services/ai-data/responsible-ai) - Advisory firm's responsible-AI governance framework and playbook for turning AI principles into operating controls; firm-branded.
+- [BCG Responsible AI (BCG)](https://www.bcg.com/capabilities/artificial-intelligence/responsible-ai) - Advisory firm's responsible-AI approach built on five pillars, from strategy through governance and operations; firm-branded, applied in financial-services work.
 
 ## Model risk management foundations
 
