@@ -16,7 +16,6 @@ Maintained by [Gary Ang](https://quaintitative.com/), who developed Singapore's 
 - [Model risk management foundations](#model-risk-management-foundations)
 - [Tools and open source](#tools-and-open-source)
 - [Research, reports, and reading](#research-reports-and-reading)
-- [From the maintainer](#from-the-maintainer)
 - [Contributing](#contributing)
 - [Licence](#licence)
 
@@ -222,7 +221,7 @@ The supervisory and practitioner base that AI risk management in finance builds 
 - [Model Risk Management for Generative AI in Financial Institutions (Bhattacharyya et al., 2025)](https://arxiv.org/abs/2503.15668) - Practitioner paper by bank model-risk authors on the additional validation and control practices generative AI needs, focusing on hallucination and toxicity risks.
 - [Generative AI Risk Management in Financial Institutions (Alliance for Innovative Regulation and Google Cloud, 2024)](https://services.google.com/fh/files/misc/wp_generative_ai_risk_management_in_fs.pdf) - A publicly available framework mapping generative-AI risks to model-validation and ongoing-monitoring controls for regulated financial firms.
 - [Modern Risk Management for AI Models (KPMG)](https://hub.kpmg.de/modern-risk-management-for-ai-models) - Whitepaper on re-imagining the MRM function for AI/ML models, including validation and governance adaptations.
-- [GenAI Model Risk Management and Governance in Financial Services: From Principles to Practice (Alan Turing Institute, 2025)](https://www.turing.ac.uk/news/publications/genai-model-risk-management-and-governance-financial-services-principles-practice) - Best practices for adapting established MRM frameworks such as SR 11-7 and SS1/23 to govern generative AI, from the Partnership on AI in Finance study, covering retrieval-augmented-generation risks, validation and oversight.
+- [Move Fast Without Breaking the Bank: Model Risk Management of GenAI Workflows (Wicker, Szpruch and Mørk, 2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5682603) - Key considerations and mitigation strategies for the model risks of generative-AI workflows in financial institutions, aligned with established MRM frameworks such as SR 11-7 and SS1/23.
 - [Scalable Runtime Governance for Agentic AI in Financial Services (Szpruch, Sudjianto, Bhatti and Ang, 2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6567199) - Extends model risk management into runtime governance for agentic AI: decomposes workflows into reusable, bounded capabilities, validates them with pooled evidence, and adds continuous authorisation, policy-conformance checking, drift monitoring and tier-based containment.
 
 ### Validation practice
@@ -433,19 +432,6 @@ Reports, papers, books, courses, and people worth following.
 - [Machine Learning for Financial Risk Management with Python (Karasan, 2021)](https://www.oreilly.com/library/view/machine-learning-for/9781492085249/) - Hands-on text applying ML algorithms to market, credit, liquidity and operational risk modelling.
 - [A First Course in Model Validation and Model Risk Management (Schachter, Goldberg and Maheshwari, 2026)](https://shop.elsevier.com/books/a-first-course-in-model-validation-and-model-risk-management/schachter/978-0-443-33746-8) - Textbook on model validation and model risk management for financial engineers.
 
-### Courses and training
-
-- [Cambridge FinTech and Regulatory Innovation Accelerator (Cambridge CCAF)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/courses/fintech-regulatory-innovation/) - Cambridge Judge executive online programme for financial regulators and supervisors, covering AI and emerging-technology oversight.
-- [Capacity Building and Education (Cambridge SupTech Lab)](https://cambridgesuptechlab.org/capacity-building-education/) - Training and tools for financial authorities on supervisory technology and AI readiness.
-- [Artificial Intelligence for Financial Services: Tools, Opportunities, and Challenges (MIT Sloan Executive Education)](https://executive.mit.edu/course/artificial-intelligence-for-financial-services/a05U100000BIm1RIAT.html) - In-person executive course led by Professor Andrew Lo on how AI and machine learning are applied across investment, banking, insurance and risk management, including the capabilities, limits and regulatory implications of current AI tools.
-- [Leading AI Adoption in Financial Services Programme (Oxford Saïd Business School)](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-leading-ai-adoption-financial-services-programme) - Five-week online programme on adopting AI across regulated financial institutions, with a dedicated module on scaling AI responsibly while managing governance, risk and compliance.
-- [AI in Finance: Strategy, Applications and Impact (Imperial College Business School)](https://www.imperial.ac.uk/business-school/executive-education/finance-economics/ai-finance-strategy-applications-Impact/online/) - Six-week online programme covering AI across trading, lending and credit risk, fraud detection and compliance, aimed at evaluating and implementing AI responsibly in finance functions.
-- [Artificial Intelligence for Financial Supervision Program (Toronto Centre)](https://www.torontocentre.org/index.php?option=com_jem&view=event&id=199:artificial-intelligence-for-financial-supervision-program&Itemid=158) - Virtual programme for financial-sector supervisors on identifying AI risks and opportunities, emerging governance and regulatory expectations, and overseeing AI-enabled systems proportionately.
-- [FSI capacity development and FSI Connect (BIS Financial Stability Institute)](https://www.bis.org/about/fsi/capacity-development) - The Financial Stability Institute's e-learning platform and online courses for central banks and supervisors, covering prudential standards and supervisory practices including AI-related topics (access restricted to eligible public-sector authorities).
-- [Machine Learning and Reinforcement Learning in Finance (New York University, Coursera)](https://www.coursera.org/specializations/machine-learning-reinforcement-finance) - NYU specialisation applying machine learning and reinforcement learning to finance problems such as trading, asset management and banking.
-- [MSc in Financial Engineering (WorldQuant University)](https://www.wqu.edu/mscfe) - Tuition-free, accredited online master's covering quantitative finance, machine learning and financial risk modelling.
-- [Generative AI for Compliance in Financial Services (CFTE)](https://courses.cfte.education/generative-ai-for-compliance-in-financial-services-online-course/) - IBF-accredited online course for compliance officers and risk managers on using and overseeing generative AI responsibly in compliance, monitoring and risk oversight.
-
 ### Blogs, newsletters and people
 
 - [Eugene Yan (eugeneyan.com)](https://eugeneyan.com/) - Applied ML practitioner writing substantively on LLM evaluation, eval design and production ML, directly useful for AI risk and model testing.
@@ -459,30 +445,6 @@ Reports, papers, books, courses, and people worth following.
 - [Global AI Law and Policy Tracker (IAPP)](https://iapp.org/resources/article/global-ai-legislation-tracker) - Country-by-country tracker of AI legislative and policy developments across jurisdictions; the full tracker requires IAPP membership.
 - [AI Watch: Global Regulatory Tracker (White & Case)](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker) - Law-firm tracker analysing each jurisdiction's approach to AI regulation.
 - [EU AI Act Explorer (Future of Life Institute)](https://artificialintelligenceact.eu/ai-act-explorer/) - An interactive navigator for the EU AI Act's text and obligations by risk category.
-
-## From the maintainer
-
-Public writing from the maintainer on AI risk management in finance. Included as curation, clearly flagged as self-authored.
-
-- [AI risk management, explained](https://quaintitative.com/ai-risk-management/) - a plain-language guide to what AI risk management is and the areas it covers.
-- [The AIRG, explained](https://quaintitative.com/airg/) - Singapore's AI risk management guidelines, by the person who wrote them.
-- [The AIRG is final](https://quaintitative.com/airg-final/) - what changed in the final MAS guidelines of 7 October 2026, and what it means for firms.
-- [The AIRG compared to the EU AI Act, NIST, and ISO 42001](https://quaintitative.com/airg-vs-eu-ai-act-nist-iso-42001/) - how the main frameworks line up, area by area.
-- [AIRG, Project MindForge, and the CRI Financial Services AI Risk Management Framework](https://quaintitative.com/airg-mindforge-cri/) - a structural map of three financial-services references: expectations, risks and practices, and controls.
-- [AI Risk Management for Regulators and Supervisors](https://quaintitative.com/ai-governance-for-regulators/) - a short book, serialised, on how a supervisor judges whether a firm's AI risk management is adequate.
-- [AI Risk Management for Risk and Compliance](https://quaintitative.com/ai-risk-management-for-compliance/) - a short book, serialised, on how the second line runs and challenges AI from inside a firm.
-- [The MindForge Toolkit guides](https://quaintitative.com/mindforge-toolkit/) - a guide per area of the Project MindForge AI Risk Management Toolkit, each linked to the AIRG.
-- [Gary Ang on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11129509) and [Google Scholar](https://scholar.google.com/citations?user=KEfvMvUAAAAJ) - peer-reviewed research, including work on AI and networks in finance.
-
-### Books by the maintainer
-
-- [AI Risk Management from First Principles](https://www.learn.simplyboring.ai/shop/p/ai-risk-management-from-first-principles-a-primer) - AI risk management as three questions, from machine learning to agents, in plain English.
-- [Boring Questions on AI Risk Management for Directors](https://www.learn.simplyboring.ai/shop/p/ai-risk-management-for-directors) - A board-facing guide: five questions to take into the next board meeting, through the financial sector's risk lens.
-- [AI Risk Management for Agents](https://www.learn.simplyboring.ai/shop/p/the-primer-ai-risk-management-for-agents) - Governing what an AI agent may do when you cannot review every path it might take.
-- [Scaling AI Governance](https://www.learn.simplyboring.ai/shop/p/scaling-ai-governance) - Three moves to collapse many AI governance frameworks into one backbone you can scale.
-- [The Boring Reading List for AI Risk Management](https://www.learn.simplyboring.ai/shop/p/the-boring-reading-list-for-ai-risk-management) - Six short reading lists by area, each reading with a note on why it is worth reading.
-- [AI Agents for Investing](https://www.learn.simplyboring.ai/shop/p/ai-agents-for-investing) - Four agent patterns, with code, to build AI investing tools grounded in real data and auditable calculations.
-- [AI Agents for Forecasting](https://www.learn.simplyboring.ai/shop/p/ai-agents-for-forecasting-a-primer) - Why a language model cannot forecast on its own, and the agent architecture that drives the real forecasting tools.
 
 ## Contributing
 
