@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Awesome AI Risk Management in Finance
+message: >-
+  If you use this list, please cite it using the metadata below.
+type: dataset
+abstract: >-
+  A curated list of resources for managing the risk of AI in financial
+  services: supervisory guidance, standards, model risk management practice,
+  tooling, research, and reading. The focus is AI risk in financial services,
+  with a finance lens throughout.
+authors:
+  - family-names: Ang
+    given-names: Gary
+    affiliation: Quaintitative
+    website: https://quaintitative.com/
+repository-code: https://github.com/playgrdstar/awesome-ai-risk-finance
+url: https://github.com/playgrdstar/awesome-ai-risk-finance
+license: CC0-1.0
+keywords:
+  - AI risk management
+  - financial services
+  - model risk management
+  - AI governance
+  - generative AI
+  - agentic AI
+  - AIRG
+  - MAS
