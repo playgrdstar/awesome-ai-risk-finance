@@ -15,6 +15,9 @@ authors:
     website: https://quaintitative.com/
 repository-code: https://github.com/playgrdstar/awesome-ai-risk-finance
 url: https://github.com/playgrdstar/awesome-ai-risk-finance
+doi: 10.5281/zenodo.23829120
+version: 1.0.0
+date-released: 2026-10-31
 license: CC-BY-NC-4.0
 keywords:
   - AI risk management

@@ -1,4 +1,4 @@
-# Awesome AI Risk Management in Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Risk Management in Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/1408802767.svg)](https://doi.org/10.5281/zenodo.23829120)
 
 > A curated list of resources for managing the risk of AI in financial services: supervisory guidance, standards, model risk management practice, tooling, research, and reading.
 
@@ -19,6 +19,7 @@ For plain-English explainers, see the [guide to the AIRG](https://quaintitative.
 - [Tools and open source](#tools-and-open-source)
 - [Research, reports, and reading](#research-reports-and-reading)
 - [Contributing](#contributing)
+- [Citation](#citation)
 - [Licence](#licence)
 
 ## Financial regulators and supervisory guidance
@@ -451,6 +452,16 @@ Reports, papers, books, courses, and people worth following.
 ## Contributing
 
 Additions, corrections, and removals are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for what belongs here and the one-line entry format.
+
+## Citation
+
+If you use this list in your work, please cite it. The DOI below is version-independent and always resolves to the latest archived release on Zenodo:
+
+[![DOI](https://zenodo.org/badge/1408802767.svg)](https://doi.org/10.5281/zenodo.23829120)
+
+> Ang, Gary. *Awesome AI Risk Management in Finance*. Zenodo. https://doi.org/10.5281/zenodo.23829120
+
+To cite a specific version instead, use the version DOI shown on that release's Zenodo record.
 
 ## Licence
 
