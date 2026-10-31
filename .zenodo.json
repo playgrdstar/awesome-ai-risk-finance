@@ -3,7 +3,7 @@
   "description": "A curated list of resources for managing the risk of AI in financial services: supervisory guidance, standards, model risk management practice, tooling, research, and reading. The focus is AI risk in financial services, with a finance lens throughout. Maintained by Gary Ang, who developed Singapore's AI Risk Management Guidelines (AIRG) while leading AI risk supervision at the MAS.",
   "upload_type": "dataset",
   "access_right": "open",
-  "license": "CC0-1.0",
+  "license": "CC-BY-NC-4.0",
   "creators": [
     {
       "name": "Ang, Gary",

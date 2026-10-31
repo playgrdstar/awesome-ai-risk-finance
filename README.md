@@ -454,6 +454,6 @@ Additions, corrections, and removals are welcome. See [CONTRIBUTING.md](CONTRIBU
 
 ## Licence
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-To the extent possible under law, the maintainer has waived all copyright and related or neighbouring rights to this work. See [LICENSE](LICENSE).
+Awesome AI Risk Management in Finance (c) 2026 by [Gary Ang](https://quaintitative.com/) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are welcome to share and adapt it, including as a fork or contribution, for non-commercial purposes, with attribution. See [LICENSE](LICENSE).
