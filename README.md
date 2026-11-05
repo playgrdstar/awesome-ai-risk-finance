@@ -38,6 +38,7 @@ Supervisory guidance from the authorities that regulate financial institutions, 
 
 ### United States
 
+- [Supervisory Framework for Bank Use of Super Intelligence (OCC, 2026)](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97a.pdf) - An OCC examiner framework for banks' use of generative and agentic AI, which it terms "Super Intelligence" following Executive Order 14434; sixteen components across six pillars (purpose, risk, control, oversight, resilience, assurance) with a consequence-based risk-tiering methodology, positioned to supplement rather than replace the model risk management guidance in OCC Bulletin 2026-13.
 - [Regulatory Notice 24-09: Generative AI and LLMs (FINRA, 2024)](https://www.finra.org/rules-guidance/notices/24-09) - Reminds broker-dealers that FINRA rules and securities laws apply to AI, including generative AI and large language models, as to any other technology.
 - [Artificial Intelligence key topic page (FINRA)](https://www.finra.org/rules-guidance/key-topics/artificial-intelligence) - FINRA's consolidated hub of AI guidance, regulatory notices and oversight-report findings for member firms.
 - [Responsible AI in Financial Markets (CFTC Technology Advisory Committee, 2024)](https://www.cftc.gov/media/10626/TAC_AIReport050224/download) - TAC subcommittee report with recommendations on responsible AI governance in CFTC-regulated derivatives markets.
