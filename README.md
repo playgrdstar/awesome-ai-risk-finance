@@ -1,4 +1,4 @@
-# Awesome AI Risk Management in Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/1408802767.svg)](https://doi.org/10.5281/zenodo.23829120)
+# Awesome AI Risk Management in Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for managing the risk of AI in financial services: supervisory guidance, standards, model risk management practice, tooling, research, and reading.
 
@@ -6,7 +6,7 @@ AI is landing in banks, insurers, asset managers, and the authorities that super
 
 The focus is deliberately narrow. It is about **AI risk in financial services**, not AI governance in general. Where a horizontal standard or tool is included, it is because it is routinely applied in finance.
 
-Maintained by [Gary Ang](https://quaintitative.com/), who developed Singapore's AI Risk Management Guidelines (AIRG) while leading AI risk supervision at the MAS. Contributions are welcome: see [Contributing](CONTRIBUTING.md).
+Maintained by [Gary Ang](https://quaintitative.com/), who developed Singapore's AI Risk Management Guidelines (AIRG) while leading AI risk supervision at the MAS. Contributions are welcome.
 
 For plain-English explainers, see the [guide to the AIRG](https://quaintitative.com/airg/), the [AIRG to MindForge crosswalk](https://quaintitative.com/airg-mindforge-crosswalk/), and a [complete guide to AI risk management in finance in Singapore](https://quaintitative.com/complete-guide-ai-risk-management-finance-singapore/) on Quaintitative.
 
@@ -18,9 +18,6 @@ For plain-English explainers, see the [guide to the AIRG](https://quaintitative.
 - [Model risk management foundations](#model-risk-management-foundations)
 - [Tools and open source](#tools-and-open-source)
 - [Research, reports, and reading](#research-reports-and-reading)
-- [Contributing](#contributing)
-- [Citation](#citation)
-- [Licence](#licence)
 
 ## Financial regulators and supervisory guidance
 
@@ -242,13 +239,7 @@ The supervisory and practitioner base that AI risk management in finance builds 
 
 ## Tools and open source
 
-Very little AI risk tooling is built for finance specifically; the main finance-native option, the open-source Veritas toolkit, sits under [Industry and consortium frameworks](#industry-and-consortium-frameworks). What follows is the general-purpose toolbox financial institutions actually use, grouped by the control each one serves:
-
-- **Fairness and bias** tools run the fair-lending and underwriting testing behind ECOA and Regulation B in the US and the FEAT principles in Singapore.
-- **Explainability** tools produce the adverse-action reasons credit decisions require, and feed independent model validation.
-- **Validation, monitoring and drift** tools run the ongoing monitoring and validation that SR 11-7, SS1/23 and OSFI E-23 expect.
-- **LLM and GenAI evaluation** and **AI security** tools cover generative-AI model risk and red-teaming.
-- **Risk catalogues and databases** help populate an AI inventory and risk register.
+Very little AI risk tooling is built for finance specifically; the main finance-native option, the open-source Veritas toolkit, sits under Industry and consortium frameworks above. What follows is the general-purpose toolbox financial institutions actually use, grouped by the control each one serves. **Fairness and bias** tools run the fair-lending and underwriting testing behind ECOA and Regulation B in the US and the FEAT principles in Singapore. **Explainability** tools produce the adverse-action reasons credit decisions require, and feed independent model validation. **Validation, monitoring and drift** tools run the ongoing monitoring and validation that SR 11-7, SS1/23 and OSFI E-23 expect. **LLM and GenAI evaluation** and **AI security** tools cover generative-AI model risk and red-teaming. **Risk catalogues and databases** help populate an AI inventory and risk register.
 
 Open source unless marked commercial. A few canonical references are flagged where no longer actively maintained.
 
@@ -454,18 +445,10 @@ Reports, papers, books, courses, and people worth following.
 
 Additions, corrections, and removals are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for what belongs here and the one-line entry format.
 
-## Citation
+## Footnotes
 
-If you use this list in your work, please cite it. The DOI below is version-independent and always resolves to the latest archived release on Zenodo:
-
-[![DOI](https://zenodo.org/badge/1408802767.svg)](https://doi.org/10.5281/zenodo.23829120)
+If you use this list in your work, please cite it. The DOI is version-independent and resolves to the latest archived release on Zenodo:
 
 > Ang, Gary. *Awesome AI Risk Management in Finance*. Zenodo. https://doi.org/10.5281/zenodo.23829120
 
 To cite a specific version instead, use the version DOI shown on that release's Zenodo record.
-
-## Licence
-
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-Awesome AI Risk Management in Finance (c) 2026 by [Gary Ang](https://quaintitative.com/) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are welcome to share and adapt it, including as a fork or contribution, for non-commercial purposes, with attribution. See [LICENSE](LICENSE).
