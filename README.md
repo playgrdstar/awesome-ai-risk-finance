@@ -290,6 +290,7 @@ Open source unless marked commercial. A few canonical references are flagged whe
 - [PyRIT (Microsoft)](https://github.com/microsoft/PyRIT) - Python Risk Identification Tool, an open-source framework to proactively red-team and identify risks in generative-AI systems.
 - [Adversarial Robustness Toolbox / ART (Trusted-AI, LF AI and Data)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security covering evasion, poisoning, extraction and inference attacks and defences, relevant to adversarial testing of fraud and credit models.
 - [OWASP Top 10 for LLM Applications / GenAI Security Project (OWASP)](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - Community risk framework cataloguing the top GenAI application risks; a standard reference for GenAI threat modelling in finance.
+- [llm-redteam-banking-checklist (Ercin Dedeoglu, 2026)](https://github.com/ErcinDedeoglu/llm-redteam-banking-checklist) - Open-source go-live gate for LLM red teaming in banking, with a severity scorer, five release gates and pytest plus GitHub Actions checks.
 
 ### Risk catalogues and databases
 
